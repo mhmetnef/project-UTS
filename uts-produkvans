@@ -1,1 +1,17 @@
 # project-UTS
+1.Buka Proyek:
+Buka folder proyek utsproject di VS Code.
+Pada list folder buka folder lib lalu pilih file main.dart
+
+2.Pastikan Perangkat :
+
+Jalankan flutter doctor di terminal untuk memastikan tidak ada masalah.
+Pilih perangkat web di bagian Device Selector (pojok kanan bawah VS Code),
+pastikan terhubung ke jaringan internet.
+
+3.Jalankan proyek:
+
+Klik kanan pada file main.dart lalu pilih start debugging.
+Login dengan mengisi semua field yang tersedia (username dan password).
+
+Thanks to REadMe ;)
